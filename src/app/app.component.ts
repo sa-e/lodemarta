@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import productosjson from 'src/assets/json/productos.json'
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'lodemarta';
+
+  productos: any = productosjson
 }
