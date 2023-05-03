@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import productosjson from 'src/assets/json/productos.json'
+import { Producto } from './model';
 
 @Component({
   selector: 'app-root',
@@ -9,5 +10,5 @@ import productosjson from 'src/assets/json/productos.json'
 export class AppComponent {
   title = 'lodemarta';
 
-  productos: any = productosjson
+  productos: Producto[] = productosjson
 }
