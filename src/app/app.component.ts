@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import productosjson from 'src/assets/json/productos.json'
+import pizzasjson from 'src/assets/json/pizzas.json'
 import { Producto } from './model';
 
 @Component({
@@ -10,5 +11,6 @@ import { Producto } from './model';
 export class AppComponent {
   title = 'lodemarta';
 
-  productos: Producto[] = productosjson
+  pizzas: Producto[] = pizzasjson;
+  productos: Producto[] = productosjson;
 }

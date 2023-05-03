@@ -1,4 +1,7 @@
-import { Component, NgModule } from '@angular/core';
+import { Component, Input, NgModule} from '@angular/core';
+import { Producto } from '../model';
+import {MatIconModule} from '@angular/material/icon';
+import {MatExpansionModule} from '@angular/material/expansion';
 import { BrowserModule } from '@angular/platform-browser';
 
 @Component({
@@ -7,7 +10,11 @@ import { BrowserModule } from '@angular/platform-browser';
   styleUrls: ['./panel.component.css']
 })
 export class PanelComponent {
+ @Input()
+ titulo!: string
 
+ @Input()
+ productos!: Producto[]
 }
 
 @NgModule({
@@ -15,7 +22,9 @@ export class PanelComponent {
     PanelComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    MatExpansionModule,
+    MatIconModule
   ],
   exports:[
     PanelComponent

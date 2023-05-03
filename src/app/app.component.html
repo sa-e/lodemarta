@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/sa-e/lodemarta/gh-pages/assets/images/image.jpg" height="400" width="600">
-<ng-container *ngFor="let producto of productos">
-  <p>{{producto.nombre}}</p>
-  <p>{{producto.precio}}</p>
-</ng-container>
-
-<app-panel></app-panel>
+<div class="container">
+  <app-panel [productos]="pizzas" [titulo]="'Pizzas'"></app-panel>
+  <app-panel [productos]="productos" [titulo]="'Sanguches'"></app-panel>
+</div>

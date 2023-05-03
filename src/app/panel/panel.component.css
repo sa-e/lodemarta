@@ -1,0 +1,23 @@
+.producto{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    width: 80px;
+    height: 60px;
+}
+
+.title{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.header{
+    height: 60px;
+    padding: 0px 0px;
+    padding-right: 10%;
+}

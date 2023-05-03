@@ -1,1 +1,18 @@
-<p>panel works!</p>
+<mat-expansion-panel>
+    <mat-expansion-panel-header class="header">
+        <div class="title">
+            <img src="https://raw.githubusercontent.com/sa-e/lodemarta/gh-pages/assets/images/image.jpg" class="img">
+            <h2>
+                <em>{{titulo}}</em>
+            </h2>
+        </div>
+    </mat-expansion-panel-header>
+
+    <ng-container *ngFor="let producto of productos">
+        <div class="producto">
+            <p>{{producto.nombre}}</p>
+            <p>{{producto.precio}}</p>
+        </div>
+    </ng-container>
+
+</mat-expansion-panel>
