@@ -1,16 +1,31 @@
 import { Component } from '@angular/core';
-import productosjson from 'src/assets/json/productos.json'
-import pizzasjson from 'src/assets/json/pizzas.json'
-import { Producto } from './model';
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { CartaModule } from './carta/carta.component';
+import { InicioModule } from './inicio/inicio.component';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  template: `
+  <app-inicio></app-inicio>
+  <app-carta></app-carta>
+  ` 
 })
 export class AppComponent {
-  title = 'lodemarta';
-
-  pizzas: Producto[] = pizzasjson;
-  productos: Producto[] = productosjson;
 }
+
+@NgModule({
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    BrowserModule,
+    BrowserAnimationsModule,
+    CartaModule,
+    InicioModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }
