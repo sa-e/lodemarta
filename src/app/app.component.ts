@@ -9,7 +9,7 @@ import { InicioModule } from './inicio/inicio.component';
   selector: 'app-root',
   template: `
   <app-inicio></app-inicio>
-  <app-carta></app-carta>
+  <app-carta id="carta"></app-carta>
   ` 
 })
 export class AppComponent {

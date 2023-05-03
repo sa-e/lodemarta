@@ -1,5 +1,12 @@
 .container{
-    margin-left: 5%;
-    margin-right: 5%;
-    max-width: 800px;
+    width: 90%;
+    margin-top: 5%;
+}
+
+.back{
+    display: flex;
+    justify-content: center;     
+    min-height:100%;
+    width: 100%;
+    background-color: antiquewhite;
 }
