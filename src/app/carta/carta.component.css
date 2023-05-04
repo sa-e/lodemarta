@@ -1,5 +1,5 @@
 .container{
-    width: 90%;
+    width: 95%;
     margin-top: 5%;
 }
 
@@ -8,5 +8,11 @@
     justify-content: center;     
     min-height:100%;
     width: 100%;
-    background-color: antiquewhite;
+    background-color:#FFF2E7;
+}
+
+@media(min-width:800px){
+    .container{
+        width: 780px;
+    }
 }

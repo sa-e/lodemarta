@@ -14,7 +14,15 @@ export class PanelComponent {
  titulo!: string
 
  @Input()
+ url!: string
+
+ @Input()
  productos!: Producto[]
+
+ get gradientUrl() {
+  return `linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)),          
+          url(${this.url})`;
+}
 }
 
 @NgModule({
