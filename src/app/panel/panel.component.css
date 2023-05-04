@@ -5,12 +5,7 @@
 
 .title{
     height: 84px;
-    width: 60%;
-    /* margin-right: 26px;
-    background-repeat: no-repeat;
-    background-attachment: fixed;   
-    background-size: cover; 
-    background-position: center; */
+    width: 60%;  
     display: flex;
     justify-content: flex-start;
     align-items: center;
