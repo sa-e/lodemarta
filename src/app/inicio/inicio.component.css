@@ -44,7 +44,8 @@
      border-radius: 10px;
      cursor: pointer;
 }
-@media(min-width:774px){
+
+@media(min-width:774px) and (min-height:774px){
     .img{
         margin-top: 30%;
         width: 400px;
