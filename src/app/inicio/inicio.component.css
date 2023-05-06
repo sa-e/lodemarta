@@ -25,6 +25,8 @@
     display: flex;
     justify-content: center;
     margin: 0 auto;
+    align-items: center;
+    
 }
 
 .red{
@@ -41,8 +43,9 @@
      width: 170px;
      background-color: #AC2C17;
      color: white;
-     border-radius: 10px;
+     border-radius: 15px;
      cursor: pointer;
+     border: none;
 }
 
 @media(min-width:774px) and (min-height:774px){

@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import {MatButtonModule} from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
 
+
 @Component({
   selector: 'app-inicio',
   templateUrl: './inicio.component.html',

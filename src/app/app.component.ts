@@ -4,12 +4,14 @@ import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CartaModule } from './carta/carta.component';
 import { InicioModule } from './inicio/inicio.component';
+import { BarModule } from './bar/bar.component';
 
 @Component({
   selector: 'app-root',
   template: `
   <app-inicio></app-inicio>
   <app-carta id="carta"></app-carta>
+  <app-bar></app-bar>
   ` 
 })
 export class AppComponent {
@@ -23,7 +25,8 @@ export class AppComponent {
     BrowserModule,
     BrowserAnimationsModule,
     CartaModule,
-    InicioModule
+    InicioModule,
+    BarModule
   ],
   providers: [],
   bootstrap: [AppComponent]
