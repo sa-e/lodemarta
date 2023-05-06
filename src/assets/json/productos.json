@@ -12,4 +12,8 @@
 {
     "nombre":"Bondiola",
     "precio":1800
+},
+{
+    "nombre":"Milanesa Completa",
+    "precio":1800
 }]
