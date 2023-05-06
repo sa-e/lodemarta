@@ -4,4 +4,8 @@
 },{
     "nombre":"Hamburguesa",
     "precio":1800
+},
+{
+    "nombre":"Lomito",
+    "precio":1800
 }]
