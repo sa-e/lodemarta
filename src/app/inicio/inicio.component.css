@@ -39,15 +39,23 @@
 
 .button{
     margin-top: 16px;
-     height: 50px;
-     width: 170px;
-     background-color: #AC2C17;
-     color: white;
-     border-radius: 15px;
-     cursor: pointer;
-     border: none;
+    height: 50px;
+    width: 170px;
+    background-color: #AC2C17;
+    color: white;
+    border-radius: 15px;
+    cursor: pointer;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); ;
 }
 
+.my-red {
+    background-color: #9c0000;
+    color: white;
+  }
 @media(min-width:774px) and (min-height:774px){
     .img{
         margin-top: 30%;
