@@ -31,5 +31,22 @@
       "precio": 2100
     }
   ]
+},
+ {
+  "titulo": "Minutas",
+  "productos": [
+    {
+      "nombre": "Milanesa napolitana",
+      "precio": 1800
+    },
+    {
+      "nombre": "Milanesa a caballo",
+      "precio": 2100
+    },
+    {
+      "nombre": "Milanesa con cheddar y panceta",
+      "precio": 2100
+    }
+  ]
 }
 ]
