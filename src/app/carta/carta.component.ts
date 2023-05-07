@@ -1,7 +1,6 @@
 import { Component, NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
-import pizzasjson from 'src/assets/json/pizzas.json'
-import { Producto } from '../model';
+import { Categoria } from '../model';
 import { PanelModule } from '../panel/panel.component';
 import { HttpClientModule,HttpClient } from '@angular/common/http';
 import { map } from 'rxjs';
@@ -12,18 +11,17 @@ import { map } from 'rxjs';
   styleUrls: ['./carta.component.css']
 })
 export class CartaComponent {
-  pizzas: Producto[] = pizzasjson;
-  productos!: Producto[];
+  categorias!: Categoria[];
 
   constructor(private http: HttpClient) { }
 
   ngOnInit() {
-    this.http.get<Producto[]>('https://raw.githubusercontent.com/sa-e/lodemarta/main/src/assets/json/productos.json')
+    this.http.get<Categoria[]>('https://raw.githubusercontent.com/sa-e/lodemarta/main/src/assets/json/productos.json')
     .pipe(
-      map(data => data.map(item => ({nombre: item.nombre, precio: item.precio})))
+      map(data => data.map(item => ({titulo: item.titulo, productos: item.productos})))
     )
-    .subscribe(productos => {
-      this.productos = productos;
+    .subscribe(categorias => {
+      this.categorias = categorias;
     });
   }
 }
