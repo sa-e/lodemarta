@@ -16,7 +16,7 @@
   ]
 },
 {
-  "titulo": "Sandwichess",
+  "titulo": "Sandwiches",
   "productos": [
     {
       "nombre": "Milanesa",
@@ -24,6 +24,10 @@
     },
     {
       "nombre": "Lomito",
+      "precio": 2100
+    },
+    {
+      "nombre": "Hamburguesa con cheddar y panceta",
       "precio": 2100
     }
   ]

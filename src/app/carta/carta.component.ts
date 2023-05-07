@@ -11,7 +11,7 @@ import { map } from 'rxjs';
   styleUrls: ['./carta.component.css']
 })
 export class CartaComponent {
-  categorias!: Categoria[];
+  categorias!: Categoria[];  
 
   constructor(private http: HttpClient) { }
 

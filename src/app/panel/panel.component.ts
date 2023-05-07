@@ -10,19 +10,18 @@ import { BrowserModule } from '@angular/platform-browser';
   styleUrls: ['./panel.component.css']
 })
 export class PanelComponent {
- @Input()
- titulo!: string
+  url!: string
 
- @Input()
- url!: string
+  @Input()
+  titulo!: string
 
- @Input()
- productos!: Producto[]
+  @Input()
+  productos!: Producto[]
 
- get gradientUrl() {
-  return `linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)),          
-          url(${this.url})`;
-}
+  ngOnInit() {
+    this.url= `https://raw.githubusercontent.com/sa-e/lodemarta/main/src/assets/images/${this.titulo}.png`;
+    console.log(this.url)
+  }
 }
 
 @NgModule({
