@@ -1,19 +1,31 @@
 [{
-    "nombre":"Milanesa",
-    "precio":2800
-},{
-    "nombre":"Hamburguesa",
-    "precio":1800
+  "titulo": "Pizzas",
+  "productos": [
+    {
+      "nombre": "Muzzarela",
+      "precio": 2000
+    },
+    {
+      "nombre": "Especial",
+      "precio": 2600
+    },
+    {
+      "nombre": "Calabresa",
+      "precio": 2600
+    }
+  ]
 },
 {
-    "nombre":"Lomito",
-    "precio":1800
-},
-{
-    "nombre":"Bondiola",
-    "precio":1800
-},
-{
-    "nombre":"Milanesa Completa",
-    "precio":1800
-}]
+  "titulo": "Sandwiches",
+  "productos": [
+    {
+      "nombre": "Milanesa",
+      "precio": 1800
+    },
+    {
+      "nombre": "Lomito",
+      "precio": 2100
+    }
+  ]
+}
+]
