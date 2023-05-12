@@ -2,9 +2,10 @@
     display: flex;
     justify-content: center;   
     align-items: center;  
-    height:4%;
+    height:3%;
     width: 100%;
     background-color:#C0C0C0;
     color: #797979;
+    font-size: 10.0pt;
 }
 
