@@ -3,50 +3,322 @@
   "productos": [
     {
       "nombre": "Muzzarella (salsa de tomate, muzzarella y aceitunas)",
-      "precio": 2000
+      "precio": 2200
     },
     {
-      "nombre": "Especial",
+      "nombre": "Doble Muzzarella (salsa de tomate, doble muzarrella y aceitunas)",
       "precio": 2600
     },
     {
-      "nombre": "Calabresa",
+      "nombre": "Primavera (salsa de tomate, morrón y huevo)",
       "precio": 2600
+    },
+    {
+      "nombre": "Fugaza (salsa de cebolla y aceitunas)",
+      "precio": 2200
+    }, 
+    {
+      "nombre": "Fugazzetta (salsa de cebolla, muzzarella y aceitunas)",
+      "precio": 2600
+    },
+    {
+      "nombre": "Jamón (salsa de tomate,  muzarrella, jamón y aceitunas)",
+      "precio": 2500
+    }, 
+    {
+      "nombre": "Jamón y morrón (salsa de tomate, muzzarella, jamón y morrón)",
+      "precio": 2700
+    },
+    {
+      "nombre": "Napolitana (salsa de tomate, muzzarella, rodajas de tomate y ajo )",
+      "precio": 2700
+    }, 
+    {
+      "nombre": "Calabresa (salsa de tomate, muzzarella, rodajas de salame y aceitunas)",
+      "precio": 2700
+    },
+    {
+      "nombre": "Jamón y huevo (salsa de tomate, muzarrella,jamón, huevo picado y aceitunas)",
+      "precio": 2700
+    }, 
+    {
+      "nombre": "Napolitana con jamón (salsa de tomate, muzzarella, jamón, tomate y aceitunas)",
+      "precio": 2800
+    },
+    {
+      "nombre": Atún (salsa blanca, cebolla, atún y muzzarella)",
+      "precio": 2800
+    },
+    {
+      "nombre": "Roquefort (salsa de tomate, muzzarella,queso roquefort y aceitunas)",
+      "precio": 2800
+    },
+    {
+      "nombre": "Palmitos (salsa de tomate, muzarrella, palmitos, salsa golf y aceitunas)",
+      "precio": 2900
+    },
+    {
+      "nombre": "Jamón y palmitos (salsa de tomate, muzzarella, jamón, palmitos, salsa golf y aceitunas)",
+      "precio": 3000
+    },
+    {
+      "nombre": "Choclo (salsa de cebolla, muzarrella y choclo)",
+      "precio": 2600
+    },
+    {
+      "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas,albahaca y aceitunas)",
+      "precio": 2900
+    },
+    {
+      "nombre": "Panceta (salsa de tomate, mezzarella, panceta ahumada, orégano y aceitunas)",
+      "precio": 2900
+    }, 
+    {
+      "nombre": "4 quesos (provolone, roquefort, reggianito, muzzarella y aceituna)",
+      "precio": 3100
+    }, 
+    {
+      "nombre": "Rúcula y crudo (salsa de tomate, muzzarella, rúcula, jamón crudo y provolone rallado)",
+      "precio": 3200
+    }, 
+    {
+      "nombre": "Fugazzetta con jamón (salsa de cebolla, muzzarella, jamón y aceitunas)",
+      "precio": 2900
+    }, 
+    {
+      "nombre": "Pizza Americana (salsa dde tomate, muzzarella, panceta ahumada y huevos fritos)",
+      "precio": 3200
+    }, 
+    {
+      "nombre": "Pizza Bomba (salsa de tomate, muzzarella, papas fritas, huevos fritos, aceitunas y orégano)",
+      "precio": 3100
     }
  ]
+},
+{
+  "titulo": "Empanadas",
+  "productos": [
+    {
+      "nombre": "Carne",
+      "precio": 300
+    },
+    {
+      "nombre": "Pollo",
+      "precio": 300
+    },
+    {
+      "nombre": Jamón y queso",
+      "precio":300
+    },
+    {
+      "nombre": "Verdura",
+      "precio": 300
+    }
+  ]
 },
 {
   "titulo": "Sanguches",
   "productos": [
     {
-      "nombre": "Milanesa",
-      "precio": 1800
+      "nombre": "",
+      "precio": 
     },
     {
-      "nombre": "Lomito",
-      "precio": 2100
-    },
-    {
-      "nombre": "Hamburguesa con cheddar y panceta",
-      "precio": 2100
+      "nombre": "",
+      "precio": 
     }
   ]
 },
- {
+{
   "titulo": "Minutas",
   "productos": [
     {
-      "nombre": "Milanesa napolitana",
-      "precio": 1800
+      "nombre": "Milanesa de ternera",
+      "precio": 2200
     },
     {
-      "nombre": "Milanesa a caballo",
-      "precio": 2100
+      "nombre": "Suprema de pollo",
+      "precio": 2200
     },
     {
-      "nombre": "Milanesa con cheddar y panceta",
-      "precio": 2100
+      "nombre": "A la napolitana",
+      "precio": 2500
+    },
+    {
+      "nombre": "A caballo",
+      "precio": 2500
+    },
+    {
+      "nombre": "Al verdeo",
+      "precio": 2650
+    },
+    {
+      "nombre": "Mila 'lo de Marta' (salsa de tomate, panceta ahumada, huevo frito y papas fritas) ",
+      "precio": 2900
+    },
+    {
+      "nombre": "test", 
     }
   ]
-}
+},
+{
+  "titulo": "Ensaladas",
+  "productos": [
+    {
+      "nombre": "Simple (lechuga y tomate)",
+      "precio": 750
+    },
+    {
+      "nombre": "Mixta (lechuga, tomate y cebolla)",
+      "precio": 850
+    },
+    {
+      "nombre": "Zanahoria y huevo",
+      "precio": 850
+    },
+    {
+      "nombre": "Tricolor (zanahoria, lechuga y tomate)",
+      "precio": 900
+    },
+    {
+      "nombre": "Completa (zanahoria, lechuga, tomate, choclo, huevo y cebolla)",
+      "precio": 1500
+    }
+  ]
+},  
+{
+  "titulo": "Guarniciones",
+  "productos": [
+    {
+      "nombre": "Papas fitas",
+      "precio": 900
+    },
+    {
+      "nombre": "Papas noisette",
+      "precio": 1300
+    },
+    {
+      "nombre": "Papas con cheddar",
+      "precio": 1400
+    },
+    {
+      "nombre": "Papas con cheddar, panceta y verdeo",
+      "precio": 1900
+    },
+    {
+      "nombre": "Tortilla de papas",
+      "precio": 1500
+    },
+    {
+      "nombre": "Tortilla de papa y cebolla",
+      "precio": 1700
+    },
+    {
+      "nombre": "Puré de papas",
+      "precio": 900
+    }
+  ]
+},  
+{
+  "titulo": "Sugerencias de la casa (para 2 personas)",
+  "productos": [
+    {
+      "nombre": "",
+      "precio": 
+    },
+    {
+      "nombre": "",
+      "precio": 
+    }
+  ]
+},  
+{
+  "titulo": "Especialidades de la casa (incluye papas fritas, puré o ensalada)",
+  "productos": [
+    {
+      "nombre": "",
+      "precio": 
+    },
+    {
+      "nombre": "",
+      "precio": 
+    }
+  ]
+},  
+{
+  "titulo": "Pollo grille (incluye papas fritas, puré o ensalada)",
+  "productos": [
+    {
+      "nombre": "",
+      "precio": 
+    },
+    {
+      "nombre": "",
+      "precio": 
+    }
+  ]
+},  
+{
+  "titulo": "Carre de cerdo (incluye papas fritas, puré o ensalada)",
+  "productos": [
+    {
+      "nombre": "",
+      "precio": 
+    },
+    {
+      "nombre": "",
+      "precio": 
+    }
+  ]
+},  
+{
+  "titulo": "Pastas",
+  "productos": [
+    {
+      "nombre": "Ravioles",
+      "precio": 1300
+    },
+    {
+      "nombre": "Ñoquis",
+      "precio": 1300
+    },
+    {
+      "nombre": "Tallarines",
+      "precio": 1300
+    },
+    {
+      "nombre": "Canelones",
+      "precio": 1500
+    }
+  ]
+},
+{
+  "titulo": "Salsas",
+  "productos": [
+    {
+      "nombre": "Filetto",
+      "precio": 400
+    },
+    {
+      "nombre": "Crema",
+      "precio": 500
+    },
+    {
+      "nombre": "Mixta",
+      "precio": 550
+    },
+    {
+      "nombre": "Rossini (salsa blanca y parmesano",
+      "precio": 550
+    },
+     {
+      "nombre": "Bologñesa",
+      "precio": 700
+    },
+     {
+      "nombre": "Caruzo (crema de cebolla, champiñon, jamón y parmesano",
+      "precio": 800
+    }
+  ]
+}, 
 ]
