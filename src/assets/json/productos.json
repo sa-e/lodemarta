@@ -2,7 +2,7 @@
   "titulo": "Pizzas",
   "productos": [
     {
-      "nombre": "Muzzarela",
+      "nombre": "Muzzarella (salsa de tomate, muzzarella y aceitunas)",
       "precio": 2000
     },
     {
@@ -12,7 +12,8 @@
     {
       "nombre": "Calabresa",
       "precio": 2600
-    }
+    },
+    
   ]
 },
 {
