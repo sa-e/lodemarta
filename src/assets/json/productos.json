@@ -305,7 +305,7 @@
       "precio": 550
     },
     {
-      "nombre": "Rossini (salsa blanca y parmesano",
+      "nombre": "Rossini (salsa blanca y parmesano)",
       "precio": 550
     },
      {
@@ -313,8 +313,11 @@
       "precio": 700
     },
      {
-      "nombre": "Caruzo (crema de cebolla, champiñon, jamón y parmesano",
+      "nombre": "Caruzo (crema de cebolla, champiñon, jamón y parmesano)",
       "precio": 800
+    },
+    {
+      "nombre": "sin precio"
     }
   ]
 }
