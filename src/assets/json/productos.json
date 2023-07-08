@@ -155,6 +155,30 @@
     {
       "nombre": "Mila 'lo de Marta' (salsa de tomate, panceta ahumada, huevo frito y papas fritas) ",
       "precio": 2900
+    },
+    {
+      "nombre": "Costeletas",
+      "precio": 2100
+    },
+    {
+      "nombre": "Costeletas a caballo",
+      "precio": 2300
+    },
+    {
+      "nombre": "Costeletas a la riojana (colchon de arvejas, cebolla, morrón, huevo frito y papas fritas)",
+      "precio": 2800
+    },
+    {
+      "nombre": "Cuarto de pollo",
+      "precio": 2100
+    },
+    {
+      "nombre": "Cuarto de pollo al verdeo con papas noisette",
+      "precio": 2500
+    },
+    {
+      "nombre": "Cuarto de pollo al champiñon con papas noisette",
+      "precio": 2800
     }
   ]
 },
@@ -217,54 +241,106 @@
   ]
 },  
 {
-  "titulo": "Sugerencias de la casa (para 2 personas)",
+  "titulo": "Sugerencias de la casa",
   "productos": [
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Napolitana XXL (milanesa XL con salsa de tomate, jamón, muzzarella y papas fritas)",
+      "precio": 4500
     },
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Napolitana XXL con cheddar (milanesa XL con salsa de tomate, jamón, muzzarella y papas fritas con cheddar)",
+      "precio": 4900
+    },
+    {
+      "nombre": "Al verdeo XXL (milanesa XL con muzzarella, crema, cebolla de verdeo y papas fritas)",
+      "precio": 4500
+    },
+    {
+      "nombre": "A caballo XXL (milanesa XL con huevos fritos y papas fritas)",
+      "precio": 4500
+    },
+    {
+      "nombre": "Especial 'lo de Marta' (milanesa XL con salsa de tomate, muzzarella, panceta ahumada, huevos fritos y papas fritas)",
+      "precio": 4900
     }
   ]
 },  
 {
-  "titulo": "Especialidades de la casa (incluye papas fritas, puré o ensalada)",
+  "titulo": "Especialidades de la casa",
   "productos": [
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Matambre tiernizado a la pizza",
+      "precio": 3100
     },
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Matambre tiernizado al roquefort",
+      "precio": 3250
+    },
+    {
+      "nombre": "Matambre tiernizado al verdeo con papas noisette",
+      "precio": 3500
+    },
+    {
+      "nombre": "Bondiola a la pizza",
+      "precio": 3200
+    },
+    {
+      "nombre": "Bondiola al verdeo",
+      "precio": 3200
+    }
+    {
+      "nombre": "Bondiola especial (con panceta huevos fritos y papas fritas)",
+      "precio": 3500
     }
   ]
 },  
 {
-  "titulo": "Pollo grille (incluye papas fritas, puré o ensalada)",
+  "titulo": "Pollo grille",
   "productos": [
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Grille Simple",
+      "precio": 2200
     },
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Napolitano",
+      "precio": 2500
+    },
+    {
+      "nombre": "Capresse",
+      "precio": 2500
+    },
+    {
+      "nombre": "Al roquefort",
+      "precio": 2600
+    },
+    {
+      "nombre": "Al verdeo con papas noisette",
+      "precio": 2900
+    },
+    {
+      "nombre": "Al champiñon con papas noisette",
+      "precio": 3100
     }
   ]
 },  
 {
-  "titulo": "Carre de cerdo (incluye papas fritas, puré o ensalada)",
+  "titulo": "Carre de cerdo",
   "productos": [
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "Carre simple",
+      "precio": 2100
     },
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "A caballo",
+      "precio": 2400
+    },
+    {
+      "nombre": "Al roquefort",
+      "precio": 2400
+    },
+    {
+      "nombre": "A la riojana (colchon de arvejas, cebolla, morrón, huevo frito y papas fritas)",
+      "precio": 2800
     }
   ]
 },  
