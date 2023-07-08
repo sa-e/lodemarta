@@ -391,10 +391,18 @@
      {
       "nombre": "Caruzo (crema de cebolla, champiñon, jamón y parmesano)",
       "precio": 800
-    },
-    {
-      "nombre": "sin precio"
     }
   ]
+{
+  "titulo": "Bebidas",
+  "productos": [
+    {
+      "nombre": "",
+      "precio": 0
+    },
+    {
+      "nombre": "",
+      "precio": 0
+    }  
 }
 ]
