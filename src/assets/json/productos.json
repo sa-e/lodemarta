@@ -393,16 +393,5 @@
       "precio": 800
     }
   ]
-{
-  "titulo": "Bebidas",
-  "productos": [
-    {
-      "nombre": "",
-      "precio": 0
-    },
-    {
-      "nombre": "",
-      "precio": 0
-    }  
 }
 ]
