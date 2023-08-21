@@ -30,7 +30,7 @@
       "precio": 2700
     },
     {
-      "nombre": "Napolitana (salsa de tomate, muzzarella, rodajas de tomate y ajo )",
+      "nombre": "Napolitana (salsa de tomate, muzzarella, rodajas de tomate y ajo)",
       "precio": 2700
     }, 
     {
@@ -38,7 +38,7 @@
       "precio": 2700
     },
     {
-      "nombre": "Jamón y huevo (salsa de tomate, muzarrella,jamón, huevo picado y aceitunas)",
+      "nombre": "Jamón y huevo (salsa de tomate, muzarrella, jamón, huevo picado y aceitunas)",
       "precio": 2700
     }, 
     {
@@ -74,7 +74,7 @@
       "precio": 2900
     }, 
     {
-      "nombre": "4 quesos (provolone, roquefort, reggianito, muzzarella y aceituna)",
+      "nombre": "4 quesos (provolone, roquefort, reggianito, muzzarella y aceitunas)",
       "precio": 3100
     }, 
     {
@@ -120,7 +120,7 @@
   "titulo": "Sanguches",
   "productos": [
     {
-      "nombre": "De Milanesa (de carne o de pollo):"
+      "nombre": "DE MILANESA (DE CARNE O DE POLLO):"
     },
     {
       "nombre": "Simple",
@@ -135,11 +135,11 @@
       "precio": 2200
     },
     {
-      "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar",
+      "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar)",
       "precio": 2800
     },
     {
-      "nombre": "De Hamburguesa:"
+      "nombre": "DE HAMBURGUESA:"
     },
     {
       "nombre": "Simple",
@@ -154,7 +154,7 @@
       "precio": 2100
     },
     {
-      "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar",
+      "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar)",
       "precio": 2600
     }
   ]
@@ -186,7 +186,7 @@
       "precio": 2650
     },
     {
-      "nombre": "Mila 'lo de Marta' (salsa de tomate, panceta ahumada, huevo frito y papas fritas) ",
+      "nombre": "Mila 'Lo de Marta' (salsa de tomate, panceta ahumada, huevo frito y papas fritas) ",
       "precio": 2900
     },
     {
@@ -296,7 +296,7 @@
       "precio": 4500
     },
     {
-      "nombre": "Especial 'lo de Marta' (milanesa XL con salsa de tomate, muzzarella, panceta ahumada, huevos fritos y papas fritas)",
+      "nombre": "Especial 'Lo de Marta' (milanesa XL con salsa de tomate, muzzarella, panceta ahumada, huevos fritos y papas fritas)",
       "precio": 4900
     }
   ]
