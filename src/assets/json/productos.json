@@ -120,11 +120,10 @@
   "titulo": "Sanguches",
   "productos": [
     {
-      "nombre": "",
-      "precio": 0
+      "nombre": "No deberia mostrar el $",
     },
     {
-      "nombre": "",
+      "nombre": "1",
       "precio": 0
     }
   ]
