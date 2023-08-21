@@ -50,7 +50,7 @@
       "precio": 2800
     },
     {
-      "nombre": "Roquefort (salsa de tomate, muzzarella,queso roquefort y aceitunas)",
+      "nombre": "Roquefort (salsa de tomate, muzzarella, queso roquefort y aceitunas)",
       "precio": 2800
     },
     {
@@ -66,11 +66,11 @@
       "precio": 2600
     },
     {
-      "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas,albahaca y aceitunas)",
+      "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas, albahaca y aceitunas)",
       "precio": 2900
     },
     {
-      "nombre": "Panceta (salsa de tomate, mezzarella, panceta ahumada, orégano y aceitunas)",
+      "nombre": "Panceta (salsa de tomate, muzzarella, panceta ahumada, orégano y aceitunas)",
       "precio": 2900
     }, 
     {
@@ -86,7 +86,7 @@
       "precio": 2900
     }, 
     {
-      "nombre": "Pizza Americana (salsa dde tomate, muzzarella, panceta ahumada y huevos fritos)",
+      "nombre": "Pizza Americana (salsa de tomate, muzzarella, panceta ahumada y huevos fritos)",
       "precio": 3200
     }, 
     {
@@ -120,17 +120,51 @@
   "titulo": "Sanguches",
   "productos": [
     {
-      "nombre": "No deberia mostrar el $"
+      "nombre": "De Milanesa (de carne o de pollo):"
     },
     {
-      "nombre": "1",
-      "precio": 0
+      "nombre": "Simple",
+      "precio": 1300
+    },
+    {
+      "nombre": "Completo (lechuga, tomate, jamón, queso y huevo)",
+      "precio": 1600
+    },
+    {
+      "nombre": "Completo con papas fritas",
+      "precio": 2200
+    },
+    {
+      "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar",
+      "precio": 2800
+    },
+    {
+      "nombre": "De Hamburguesa:"
+    },
+    {
+      "nombre": "Simple",
+      "precio": 1400
+    },
+    {
+      "nombre": "Completo (lechuga, tomate, jamón, queso y huevo)",
+      "precio": 1700
+    },
+    {
+      "nombre": "Completo con papas fritas",
+      "precio": 2100
+    },
+    {
+      "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar",
+      "precio": 2600
     }
   ]
 },
 {
   "titulo": "Minutas",
   "productos": [
+    {
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+    },
     {
       "nombre": "Milanesa de ternera",
       "precio": 2200
@@ -243,6 +277,9 @@
   "titulo": "Sugerencias de la casa",
   "productos": [
     {
+      "nombre": "PARA DOS PERSONAS"
+    },
+    {
       "nombre": "Napolitana XXL (milanesa XL con salsa de tomate, jamón, muzzarella y papas fritas)",
       "precio": 4500
     },
@@ -268,6 +305,9 @@
   "titulo": "Especialidades de la casa",
   "productos": [
     {
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+    },
+    {
       "nombre": "Matambre tiernizado a la pizza",
       "precio": 3100
     },
@@ -284,11 +324,11 @@
       "precio": 3200
     },
     {
-      "nombre": "Bondiola al verdeo",
-      "precio": 3200
+      "nombre": "Bondiola al verdeo con papas noisette",
+      "precio": 3500
     },
     {
-      "nombre": "Bondiola especial (con panceta huevos fritos y papas fritas)",
+      "nombre": "Bondiola especial (con panceta, huevos fritos y papas fritas)",
       "precio": 3500
     }
   ]
@@ -296,6 +336,9 @@
 {
   "titulo": "Pollo grille",
   "productos": [
+    {
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+    },
     {
       "nombre": "Grille Simple",
       "precio": 2200
@@ -325,6 +368,9 @@
 {
   "titulo": "Carre de cerdo",
   "productos": [
+    {
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+    },
     {
       "nombre": "Carre simple",
       "precio": 2100
