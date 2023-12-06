@@ -443,14 +443,14 @@
   "titulo": "Bebidas",
   "productos": [
     {
-      "nombre": "AGUAS",
+      "nombre": "AGUAS"
     },
     {
       "nombre": "Agua mineral 500 ml",
       "precio": 0
     },
     {
-      "nombre": "Agua ,ineral 1,5 lt",
+      "nombre": "Agua mineral 1,5 lt",
       "precio": 0
     },
     {
@@ -466,7 +466,7 @@
       "precio": 0
     },
     {
-      "nombre": "GASEOSAS (coca-cola, sprite, fanta).",
+      "nombre": "GASEOSAS (coca-cola, sprite, fanta)."
     },
     {
       "nombre": "500 ml",
@@ -481,7 +481,7 @@
       "precio": 0
     },
     {
-      "nombre": "VINOS TINTOS",
+      "nombre": "VINOS TINTOS"
     },
     {
       "nombre": "Lopez",
@@ -512,14 +512,14 @@
       "precio": 0
     },
     {
-      "nombre": "VINOS BLANCOS",
+      "nombre": "VINOS BLANCOS"
     },
     {
       "nombre": "Estancia de Mendoza",
       "precio": 0
     },
     {
-      "nombre": "CERVEZAS",
+      "nombre": "CERVEZAS"
     },
     {
       "nombre": "Quilmes",
