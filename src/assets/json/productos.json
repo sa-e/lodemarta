@@ -140,7 +140,8 @@
       "precio": 0
     },
     {
-      "nombre": "DE HAMBURGUESA:"
+      "nombre": "DE HAMBURGUESA:",
+      "precio": 1
     },
     {
       "nombre": "Simple",
@@ -164,7 +165,8 @@
   "titulo": "Minutas",
   "productos": [
     {
-      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA",
+      "precio": 1
     },
     {
       "nombre": "Milanesa de ternera",
@@ -278,7 +280,8 @@
   "titulo": "Sugerencias de la casa",
   "productos": [
     {
-      "nombre": "PARA DOS PERSONAS"
+      "nombre": "PARA DOS PERSONAS",
+      "precio": 1
     },
     {
       "nombre": "Napolitana XXL (milanesa XL con salsa de tomate, jamón, muzzarella y papas fritas)",
@@ -306,7 +309,8 @@
   "titulo": "Especialidades de la casa",
   "productos": [
     {
-      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA",
+      "precio": 1
     },
     {
       "nombre": "Matambre tiernizado a la pizza",
@@ -338,7 +342,8 @@
   "titulo": "Pollo grille",
   "productos": [
     {
-      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA",
+      "precio": 1
     },
     {
       "nombre": "Grille Simple",
@@ -370,7 +375,8 @@
   "titulo": "Carre de cerdo",
   "productos": [
     {
-      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA"
+      "nombre": "TODOS LOS PLATOS INCLUYEN PAPAS FRITAS, PURÉ O ENSALADA",
+      "precio": 1
     },
     {
       "nombre": "Carre simple",
@@ -448,7 +454,8 @@
   "titulo": "Bebidas",
   "productos": [
     {
-      "nombre": "AGUAS"
+      "nombre": "AGUAS",
+      "precio": 1
     },
     {
       "nombre": "Agua mineral 500 ml",
@@ -471,7 +478,8 @@
       "precio": 0
     },
     {
-      "nombre": "GASEOSAS (coca-cola, sprite, fanta)."
+      "nombre": "GASEOSAS (coca-cola, sprite, fanta).",
+      "precio": 1
     },
     {
       "nombre": "500 ml",
@@ -486,7 +494,8 @@
       "precio": 0
     },
     {
-      "nombre": "VINOS TINTOS"
+      "nombre": "VINOS TINTOS",
+      "precio": 1
     },
     {
       "nombre": "Lopez",
@@ -517,7 +526,8 @@
       "precio": 0
     },
     {
-      "nombre": "VINOS BLANCOS"
+      "nombre": "VINOS BLANCOS",
+      "precio": 1
     },
     {
       "nombre": "Lopez",
@@ -532,7 +542,8 @@
       "precio": 0
     },
     {
-      "nombre": "CERVEZAS"
+      "nombre": "CERVEZAS",
+      "precio": 1
     },
     {
       "nombre": "Quilmes",
