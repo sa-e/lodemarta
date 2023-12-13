@@ -120,7 +120,8 @@
   "titulo": "Sandwichs",
   "productos": [
     {
-      "nombre": "DE MILANESA (DE CARNE O DE POLLO):"
+      "nombre": "DE MILANESA (DE CARNE O DE POLLO):",
+      "precio": 1
     },
     {
       "nombre": "Simple",
