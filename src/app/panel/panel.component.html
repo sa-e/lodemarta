@@ -10,8 +10,8 @@
 
     <ng-container *ngFor="let producto of productos">
         <div class="producto">
-            <p>{{producto.nombre}}</p>
-            <p *ngIf="producto.precio">${{producto.precio}}</p>
+            <p [ngClass]="{ 'negrita': producto.precio === 1 }">{{producto.nombre}}</p>
+            <p *ngIf="producto.precio && producto.precio !== 1">${{producto.precio}}</p>
         </div>
     </ng-container>
 
