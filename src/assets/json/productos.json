@@ -546,24 +546,44 @@
       "precio": 1
     },
     {
-      "nombre": "Quilmes",
-      "precio": 0
+      "nombre": "Quilmes 1 lt",
+      "precio": 3500
     },
     {
-      "nombre": "Brahma",
-      "precio": 0
+      "nombre": "Brahma 1 lt",
+      "precio": 3500
     },
     {
-      "nombre": "Andes",
-      "precio": 0
+      "nombre": "Andes 1 lt",
+      "precio": 3700
     },
     {
-      "nombre": "Stella Artois",
-      "precio": 0
+      "nombre": "Stella Artois 1 lt",
+      "precio": 4000
     },
     {
-      "nombre": "Quilmes Stout",
-      "precio": 0
+      "nombre": "Quilmes Stout 1 lt",
+      "precio": 3600
+    },
+    {
+      "nombre": "Quilmes lata",
+      "precio": 2200
+    },
+    {
+      "nombre": "Brahma lata",
+      "precio": 2200
+    },
+    {
+      "nombre": "Andes lata",
+      "precio": 2500
+    },
+    {
+      "nombre": "Stella Artois lata",
+      "precio": 2700
+    },
+    {
+      "nombre": "Quilmes Stout lata",
+      "precio": 2500
     }
   ]
 }
