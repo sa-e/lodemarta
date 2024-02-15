@@ -3,79 +3,79 @@
   "productos": [
     {
       "nombre": "Muzzarella (salsa de tomate, muzzarella y aceitunas)",
-      "precio": 0
+      "precio": 5500
     },
     {
       "nombre": "Doble Muzzarella (salsa de tomate, doble muzarrella y aceitunas)",
-      "precio": 0
+      "precio": 6500
     },
     {
       "nombre": "Primavera (salsa de tomate, morrón y huevo)",
-      "precio": 0
+      "precio": 7000
     },
     {
       "nombre": "Fugaza (salsa de cebolla y aceitunas)",
-      "precio": 0
+      "precio": 6000
     }, 
     {
       "nombre": "Fugazzetta (salsa de cebolla, muzzarella y aceitunas)",
-      "precio": 0
+      "precio": 6900
     },
     {
       "nombre": "Jamón (salsa de tomate,  muzarrella, jamón y aceitunas)",
-      "precio": 0
+      "precio": 6500
     }, 
     {
       "nombre": "Jamón y morrón (salsa de tomate, muzzarella, jamón y morrón)",
-      "precio": 0
+      "precio": 7500
     },
     {
       "nombre": "Napolitana (salsa de tomate, muzzarella, rodajas de tomate y ajo)",
-      "precio": 0
+      "precio": 7500
     }, 
     {
       "nombre": "Calabresa (salsa de tomate, muzzarella, rodajas de salame y aceitunas)",
-      "precio": 0
+      "precio": 7500
     },
     {
       "nombre": "Jamón y huevo (salsa de tomate, muzarrella, jamón, huevo picado y aceitunas)",
-      "precio": 0
+      "precio": 7500
     }, 
     {
       "nombre": "Napolitana con jamón (salsa de tomate, muzzarella, jamón, tomate y aceitunas)",
-      "precio": 0
+      "precio": 8000
     },
     {
       "nombre": "Atún (salsa blanca, cebolla, atún y muzzarella)",
-      "precio": 0
+      "precio": 9500
     },
     {
       "nombre": "Roquefort (salsa de tomate, muzzarella, queso roquefort y aceitunas)",
-      "precio": 0
+      "precio": 7600
     },
     {
       "nombre": "Palmitos (salsa de tomate, muzarrella, palmitos, salsa golf y aceitunas)",
-      "precio": 0
+      "precio": 7900
     },
     {
       "nombre": "Jamón y palmitos (salsa de tomate, muzzarella, jamón, palmitos, salsa golf y aceitunas)",
-      "precio": 0
+      "precio": 8400
     },
     {
       "nombre": "Choclo (salsa de cebolla, muzarrella y choclo)",
-      "precio": 0
+      "precio": 7000
     },
     {
       "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas, albahaca y aceitunas)",
-      "precio": 0
+      "precio": 7700
     },
     {
       "nombre": "Panceta (salsa de tomate, muzzarella, panceta ahumada, orégano y aceitunas)",
-      "precio": 0
+      "precio": 8200
     }, 
     {
       "nombre": "4 quesos (provolone, roquefort, reggianito, muzzarella y aceitunas)",
-      "precio": 0
+      "precio": 8500
     }, 
     {
       "nombre": "Rúcula y crudo (salsa de tomate, muzzarella, rúcula, jamón crudo y provolone rallado)",
@@ -83,15 +83,15 @@
     }, 
     {
       "nombre": "Fugazzetta con jamón (salsa de cebolla, muzzarella, jamón y aceitunas)",
-      "precio": 0
+      "precio": 7700
     }, 
     {
       "nombre": "Pizza Americana (salsa de tomate, muzzarella, panceta ahumada y huevos fritos)",
-      "precio": 0
+      "precio": 9200
     }, 
     {
       "nombre": "Pizza Bomba (salsa de tomate, muzzarella, papas fritas, huevos fritos, aceitunas y orégano)",
-      "precio": 0
+      "precio": 8700
     }
  ]
 },
@@ -100,19 +100,19 @@
   "productos": [
     {
       "nombre": "Carne",
-      "precio": 0
+      "precio": 8000
     },
     {
       "nombre": "Pollo",
-      "precio": 0
+      "precio": 8000
     },
     {
       "nombre": "Jamón y queso",
-      "precio": 0
+      "precio": 800
     },
     {
       "nombre": "Verdura",
-      "precio": 0
+      "precio": 800
     }
   ]
 },
