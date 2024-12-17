@@ -314,15 +314,15 @@
     },
     {
       "nombre": "Matambre tiernizado a la pizza",
-      "precio": 10500
+      "precio": 13000
     },
     {
       "nombre": "Matambre tiernizado al roquefort",
-      "precio": 10900
+      "precio": 13900
     },
     {
       "nombre": "Matambre tiernizado al verdeo con papas noisette",
-      "precio": 12900
+      "precio": 14900
     },
     {
       "nombre": "Bondiola a la pizza",
@@ -347,27 +347,27 @@
     },
     {
       "nombre": "Grille Simple",
-      "precio": 8000
+      "precio": 9500
     },
     {
       "nombre": "Napolitano",
-      "precio": 8500
-    },
-    {
-      "nombre": "Capresse",
-      "precio": 8500
-    },
-    {
-      "nombre": "Al roquefort",
       "precio": 10000
     },
     {
+      "nombre": "Capresse",
+      "precio": 1000
+    },
+    {
+      "nombre": "Al roquefort",
+      "precio": 11000
+    },
+    {
       "nombre": "Al verdeo con papas noisette",
-      "precio": 11500
+      "precio": 12000
     },
     {
       "nombre": "Al champiñon con papas noisette",
-      "precio": 13000
+      "precio": 13500
     }
   ]
 },  
@@ -563,23 +563,23 @@
     },
     {
       "nombre": "Quilmes 1 lt",
-      "precio": 5300
+      "precio": 5600
     },
     {
       "nombre": "Brahma 1 lt",
-      "precio": 5300
+      "precio": 5600
     },
     {
       "nombre": "Andes 1 lt",
-      "precio": 5500
+      "precio": 6000
     },
     {
       "nombre": "Stella Artois 1 lt",
-      "precio": 6200
+      "precio": 6500
     },
     {
       "nombre": "Quilmes Stout 1 lt",
-      "precio": 5300
+      "precio": 5600
     },
     {
       "nombre": "Quilmes LATA",
