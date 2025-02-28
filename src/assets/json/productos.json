@@ -3,79 +3,79 @@
   "productos": [
     {
       "nombre": "Muzzarella (salsa de tomate, muzzarella y aceitunas)",
-      "precio": 10000
+      "precio": 11000
     },
     {
       "nombre": "Doble Muzzarella (salsa de tomate, doble muzarrella y aceitunas)",
-      "precio": 11500
+      "precio": 13000
     },
     {
       "nombre": "Primavera (salsa de tomate, morrón y huevo)",
-      "precio": 12500
+      "precio": 13500
     },
     {
       "nombre": "Fugaza (salsa de cebolla y aceitunas)",
-      "precio": 10000
-    }, 
-    {
-      "nombre": "Fugazzetta (salsa de cebolla, muzzarella y aceitunas)",
-      "precio": 12000
-    },
-    {
-      "nombre": "Jamón (salsa de tomate,  muzarrella, jamón y aceitunas)",
       "precio": 11000
     }, 
     {
-      "nombre": "Jamón y morrón (salsa de tomate, muzzarella, jamón y morrón)",
+      "nombre": "Fugazzetta (salsa de cebolla, muzzarella y aceitunas)",
       "precio": 13500
+    },
+    {
+      "nombre": "Jamón (salsa de tomate,  muzarrella, jamón y aceitunas)",
+      "precio": 12500
+    }, 
+    {
+      "nombre": "Jamón y morrón (salsa de tomate, muzzarella, jamón y morrón)",
+      "precio": 15000
     },
     {
       "nombre": "Napolitana (salsa de tomate, muzzarella, rodajas de tomate y ajo)",
-      "precio": 13500
-    }, 
-    {
-      "nombre": "Calabresa (salsa de tomate, muzzarella, rodajas de salame y aceitunas)",
-      "precio": 13500
-    },
-    {
-      "nombre": "Jamón y huevo (salsa de tomate, muzarrella, jamón, huevo picado y aceitunas)",
-      "precio": 13500
-    }, 
-    {
-      "nombre": "Napolitana con jamón (salsa de tomate, muzzarella, jamón, tomate y aceitunas)",
-      "precio": 14500
-    },
-    {
-      "nombre": "Atún (salsa blanca, cebolla, atún y muzzarella)",
-      "precio": 14000
-    },
-    {
-      "nombre": "Roquefort (salsa de tomate, muzzarella, queso roquefort y aceitunas)",
-      "precio": 14000
-    },
-    {
-      "nombre": "Palmitos (salsa de tomate, muzarrella, palmitos, salsa golf y aceitunas)",
-      "precio": 16000
-    },
-    {
-      "nombre": "Jamón y palmitos (salsa de tomate, muzzarella, jamón, palmitos, salsa golf y aceitunas)",
-      "precio": 17000
-    },
-    {
-      "nombre": "Choclo (salsa de cebolla, muzarrella y choclo)",
-      "precio": 12000
-    },
-    {
-      "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas, albahaca y aceitunas)",
-      "precio": 14500
-    },
-    {
-      "nombre": "Panceta (salsa de tomate, muzzarella, panceta ahumada, orégano y aceitunas)",
       "precio": 15000
     }, 
     {
+      "nombre": "Calabresa (salsa de tomate, muzzarella, rodajas de salame y aceitunas)",
+      "precio": 15000
+    },
+    {
+      "nombre": "Jamón y huevo (salsa de tomate, muzarrella, jamón, huevo picado y aceitunas)",
+      "precio": 15000
+    }, 
+    {
+      "nombre": "Napolitana con jamón (salsa de tomate, muzzarella, jamón, tomate y aceitunas)",
+      "precio": 16500
+    },
+    {
+      "nombre": "Atún (salsa blanca, cebolla, atún y muzzarella)",
+      "precio": 15000
+    },
+    {
+      "nombre": "Roquefort (salsa de tomate, muzzarella, queso roquefort y aceitunas)",
+      "precio": 15000
+    },
+    {
+      "nombre": "Palmitos (salsa de tomate, muzarrella, palmitos, salsa golf y aceitunas)",
+      "precio": 17000
+    },
+    {
+      "nombre": "Jamón y palmitos (salsa de tomate, muzzarella, jamón, palmitos, salsa golf y aceitunas)",
+      "precio": 18000
+    },
+    {
+      "nombre": "Choclo (salsa de cebolla, muzarrella y choclo)",
+      "precio": 13000
+    },
+    {
+      "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas, albahaca y aceitunas)",
+      "precio": 17000
+    },
+    {
+      "nombre": "Panceta (salsa de tomate, muzzarella, panceta ahumada, orégano y aceitunas)",
+      "precio": 17000
+    }, 
+    {
       "nombre": "4 quesos (provolone, roquefort, reggianito, muzzarella y aceitunas)",
-      "precio": 15500
+      "precio": 17000
     }, 
     {
       "nombre": "Rúcula y crudo (salsa de tomate, muzzarella, rúcula, jamón crudo y provolone rallado)",
@@ -83,15 +83,15 @@
     }, 
     {
       "nombre": "Fugazzetta con jamón (salsa de cebolla, muzzarella, jamón y aceitunas)",
-      "precio": 14000
+      "precio": 16500
     }, 
     {
       "nombre": "Pizza Americana (salsa de tomate, muzzarella, panceta ahumada y huevos fritos)",
-      "precio": 16500
+      "precio": 17000
     }, 
     {
       "nombre": "Pizza Bomba (salsa de tomate, muzzarella, papas fritas, huevos fritos, aceitunas y orégano)",
-      "precio": 16500
+      "precio": 17500
     }
  ]
 },
@@ -401,23 +401,23 @@
   "productos": [
     {
       "nombre": "Ravioles",
-      "precio": 5500
+      "precio": 6000
     },
     {
       "nombre": "Sorrentinos",
-      "precio": 6000
+      "precio": 6500
     },
     {
       "nombre": "Ñoquis",
-      "precio": 5500
+      "precio": 6000
     },
     {
       "nombre": "Tallarines",
-      "precio": 5500
+      "precio": 6000
     },
     {
       "nombre": "Canelones",
-      "precio": 6000
+      "precio": 6500
     }
   ]
 },
@@ -430,23 +430,23 @@
     },
     {
       "nombre": "Crema",
-      "precio": 2000
+      "precio": 2500
     },
     {
       "nombre": "Mixta",
-      "precio": 2500
+      "precio": 3000
     },
     {
       "nombre": "Rossini (salsa blanca y parmesano)",
-      "precio": 2500
-    },
-     {
-      "nombre": "Bologñesa",
       "precio": 3000
     },
      {
-      "nombre": "Caruzo (crema de cebolla, champiñon, jamón y parmesano)",
+      "nombre": "Bologñesa",
       "precio": 3500
+    },
+     {
+      "nombre": "Caruzo (crema de cebolla, champiñon, jamón y parmesano)",
+      "precio": 4000
     }
   ]
 },
@@ -459,15 +459,15 @@
     },
     {
       "nombre": "Agua mineral 500 ml",
-      "precio": 2500
+      "precio": 2800
     },
     {
       "nombre": "Agua mineral 1,5 lt",
-      "precio": 4500
+      "precio": 4800
     },
     {
       "nombre": "Agua con gas 500 ml",
-      "precio": 2500
+      "precio": 2800
     },
     {
       "nombre": "Agua con gas 1,5 lt",
@@ -475,11 +475,11 @@
     },
     {
       "nombre": "Agua Saborizada 500 ml",
-      "precio": 2500
+      "precio": 2800
     },
     {
       "nombre": "Agua Saborizada 1,5 lt",
-      "precio": 4500
+      "precio": 4800
     },
     {
       "nombre": "GASEOSAS (coca-cola, sprite, fanta).",
@@ -487,15 +487,15 @@
     },
     {
       "nombre": "500 ml",
-      "precio": 2500
+      "precio": 2800
     },
     {
       "nombre": "1,25 lt",
-      "precio": 4500
+      "precio": 4800
     },
     {
       "nombre": "1,5 lt",
-      "precio": 5000
+      "precio": 5500
     },
     {
       "nombre": "VINOS TINTOS",
@@ -571,23 +571,23 @@
     },
     {
       "nombre": "Quilmes 1 lt",
-      "precio": 5600
+      "precio": 6000
     },
     {
       "nombre": "Brahma 1 lt",
-      "precio": 5600
+      "precio": 6000
     },
     {
       "nombre": "Andes 1 lt",
-      "precio": 6000
-    },
-    {
-      "nombre": "Stella Artois 1 lt",
       "precio": 6500
     },
     {
+      "nombre": "Stella Artois 1 lt",
+      "precio": 7000
+    },
+    {
       "nombre": "Quilmes Stout 1 lt",
-      "precio": 6000
+      "precio": 6500
     },
     {
       "nombre": "Quilmes LATA",
