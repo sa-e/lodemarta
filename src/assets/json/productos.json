@@ -3,63 +3,63 @@
   "productos": [
     {
       "nombre": "Muzzarella (salsa de tomate, muzzarella y aceitunas)",
-      "precio": 14000
+      "precio": 15000
     },
     {
       "nombre": "Doble Muzzarella (salsa de tomate, doble muzarrella y aceitunas)",
-      "precio": 17500
+      "precio": 18000
     },
     {
       "nombre": "Primavera (salsa de tomate, morrón y huevo)",
-      "precio": 19000
+      "precio": 21000
     },
     {
       "nombre": "Fugaza (salsa de cebolla y aceitunas)",
-      "precio": 14000
+      "precio": 16000
     }, 
     {
       "nombre": "Fugazzetta (salsa de cebolla, muzzarella y aceitunas)",
-      "precio": 18500
+      "precio": 20000
     },
     {
       "nombre": "Jamón (salsa de tomate,  muzarrella, jamón y aceitunas)",
-      "precio": 16500
+      "precio": 18000
     }, 
     {
       "nombre": "Jamón y morrón (salsa de tomate, muzzarella, jamón y morrón)",
-      "precio": 19500
+      "precio": 21000
     },
     {
       "nombre": "Napolitana (salsa de tomate, muzzarella, rodajas de tomate y ajo)",
-      "precio": 19500
+      "precio": 21000
     }, 
     {
       "nombre": "Calabresa (salsa de tomate, muzzarella, rodajas de salame y aceitunas)",
-      "precio": 19500
+      "precio": 21000
     },
     {
       "nombre": "Jamón y huevo (salsa de tomate, muzarrella, jamón, huevo picado y aceitunas)",
-      "precio": 19500
+      "precio": 20000
     }, 
     {
       "nombre": "Napolitana con jamón (salsa de tomate, muzzarella, jamón, tomate y aceitunas)",
-      "precio": 21000
-    },
-    {
-      "nombre": "Atún (salsa blanca, cebolla, atún y muzzarella)",
-      "precio": 21000
-    },
-    {
-      "nombre": "Roquefort (salsa de tomate, muzzarella, queso roquefort y aceitunas)",
-      "precio": 21500
-    },
-    {
-      "nombre": "Palmitos (salsa de tomate, muzarrella, palmitos, salsa golf y aceitunas)",
       "precio": 23000
     },
     {
+      "nombre": "Atún (salsa blanca, cebolla, atún y muzzarella)",
+      "precio": 23000
+    },
+    {
+      "nombre": "Roquefort (salsa de tomate, muzzarella, queso roquefort y aceitunas)",
+      "precio": 23000
+    },
+    {
+      "nombre": "Palmitos (salsa de tomate, muzarrella, palmitos, salsa golf y aceitunas)",
+      "precio": 24000
+    },
+    {
       "nombre": "Jamón y palmitos (salsa de tomate, muzzarella, jamón, palmitos, salsa golf y aceitunas)",
-      "precio": 25000
+      "precio": 26000
     },
     {
       "nombre": "Choclo (salsa de cebolla, muzarrella y choclo)",
@@ -67,15 +67,15 @@
     },
     {
       "nombre": "Margarita (salsa de tomate, muzzarella, tomates en rodajas, albahaca y aceitunas)",
-      "precio": 21000
+      "precio": 23000
     },
     {
       "nombre": "Panceta (salsa de tomate, muzzarella, panceta ahumada, orégano y aceitunas)",
-      "precio": 21000
+      "precio": 23000
     }, 
     {
       "nombre": "4 quesos (provolone, roquefort, reggianito, muzzarella y aceitunas)",
-      "precio": 22500
+      "precio": 24000
     }, 
     {
       "nombre": "Rúcula y crudo (salsa de tomate, muzzarella, rúcula, jamón crudo y provolone rallado)",
@@ -83,15 +83,15 @@
     }, 
     {
       "nombre": "Fugazzetta con jamón (salsa de cebolla, muzzarella, jamón y aceitunas)",
-      "precio": 21000
+      "precio": 23000
     }, 
     {
       "nombre": "Pizza Americana (salsa de tomate, muzzarella, panceta ahumada y huevos fritos)",
-      "precio": 23500
+      "precio": 25000
     }, 
     {
       "nombre": "Pizza Bomba (salsa de tomate, muzzarella, papas fritas, huevos fritos, aceitunas y orégano)",
-      "precio": 24500
+      "precio": 26000
     }
  ]
 },
@@ -129,15 +129,15 @@
     },
     {
       "nombre": "Completo (lechuga, tomate, jamón, queso y huevo)",
-      "precio": 15000
+      "precio": 16000
     },
     {
       "nombre": "Completo con papas fritas",
-      "precio": 18000
+      "precio": 19000
     },
     {
       "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar)",
-      "precio": 12000
+      "precio": 23000
     },
     {
       "nombre": "DE HAMBURGUESA:",
@@ -145,19 +145,19 @@
     },
     {
       "nombre": "Simple",
-      "precio": 8000
+      "precio": 9000
     },
     {
       "nombre": "Completo (lechuga, tomate, jamón, queso y huevo)",
-      "precio": 12000
+      "precio": 13000
     },
     {
       "nombre": "Completo con papas fritas",
-      "precio": 15000
+      "precio": 16000
     },
     {
       "nombre": "Lo de Marta (lechuga, tomate, panceta, huevo, queso y papas fritas con cheddar)",
-      "precio": 19000
+      "precio": 20000
     }
   ]
 },
@@ -170,51 +170,51 @@
     },
     {
       "nombre": "Milanesa de ternera",
-      "precio": 17000
-    },
-    {
-      "nombre": "Suprema de pollo",
-      "precio": 17000
-    },
-    {
-      "nombre": "A la napolitana",
-      "precio": 18500
-    },
-    {
-      "nombre": "A caballo",
-      "precio": 18500
-    },
-    {
-      "nombre": "Al verdeo",
-      "precio": 20000
-    },
-    {
-      "nombre": "Mila 'Lo de Marta' (salsa de tomate, panceta ahumada, huevo frito y papas fritas) ",
-      "precio": 23500
-    },
-    {
-      "nombre": "Costeletas",
-      "precio": 14000
-    },
-    {
-      "nombre": "Costeletas a caballo",
-      "precio": 16000
-    },
-    {
-      "nombre": "Costeletas a la riojana (colchon de arvejas, cebolla, morrón, huevo frito y papas fritas)",
-      "precio": 22000
-    },
-    {
-      "nombre": "Cuarto de pollo",
-      "precio": 14000
-    },
-    {
-      "nombre": "Cuarto de pollo al verdeo con papas noisette",
       "precio": 18000
     },
     {
-      "nombre": "Cuarto de pollo al champiñon con papas noisette",
+      "nombre": "Suprema de pollo",
+      "precio": 18000
+    },
+    {
+      "nombre": "A la napolitana",
+      "precio": 20000
+    },
+    {
+      "nombre": "A caballo",
+      "precio": 20000
+    },
+    {
+      "nombre": "Al verdeo",
+      "precio": 21500
+    },
+    {
+      "nombre": "Mila 'Lo de Marta' (salsa de tomate, panceta ahumada, huevo frito y papas fritas) ",
+      "precio": 25000
+    },
+    {
+      "nombre": "Costeletas",
+      "precio": 15000
+    },
+    {
+      "nombre": "Costeletas a caballo",
+      "precio": 17000
+    },
+    {
+      "nombre": "Costeletas a la riojana (colchon de arvejas, cebolla, morrón, huevo frito y papas fritas)",
+      "precio": 24000
+    },
+    {
+      "nombre": "Cuarto de pollo",
+      "precio": 15000
+    },
+    {
+      "nombre": "Cuarto de pollo al verdeo con papas noisette",
       "precio": 19000
+    },
+    {
+      "nombre": "Cuarto de pollo al champiñon con papas noisette",
+      "precio": 22000
     }
   ]
 },
@@ -223,23 +223,23 @@
   "productos": [
     {
       "nombre": "Simple (lechuga y tomate)",
-      "precio": 7000
-    },
-    {
-      "nombre": "Mixta (lechuga, tomate y cebolla)",
-      "precio": 7500
-    },
-    {
-      "nombre": "Zanahoria y huevo",
       "precio": 8000
     },
     {
-      "nombre": "Tricolor (zanahoria, lechuga y tomate)",
+      "nombre": "Mixta (lechuga, tomate y cebolla)",
       "precio": 8500
     },
     {
+      "nombre": "Zanahoria y huevo",
+      "precio": 8500
+    },
+    {
+      "nombre": "Tricolor (zanahoria, lechuga y tomate)",
+      "precio": 9500
+    },
+    {
       "nombre": "Completa (zanahoria, lechuga, tomate, choclo, huevo y cebolla)",
-      "precio": 12000
+      "precio": 14000
     }
   ]
 },  
@@ -248,31 +248,31 @@
   "productos": [
     {
       "nombre": "Papas fitas",
-      "precio": 8000
+      "precio": 9000
     },
     {
       "nombre": "Papas noisette",
-      "precio": 9500
+      "precio": 10000
     },
     {
       "nombre": "Papas con cheddar",
-      "precio": 10500
+      "precio": 11500
     },
     {
       "nombre": "Papas con cheddar, panceta y verdeo",
-      "precio": 13500
+      "precio": 15000
     },
     {
       "nombre": "Tortilla de papas",
-      "precio": 13000
+      "precio": 15000
     },
     {
       "nombre": "Tortilla de papa y cebolla",
-      "precio": 14000
+      "precio": 16000
     },
     {
       "nombre": "Puré de papas",
-      "precio": 8000
+      "precio": 9000
     }
   ]
 },  
@@ -285,23 +285,23 @@
     },
     {
       "nombre": "Napolitana XXL (milanesa XL con salsa de tomate, jamón, muzzarella y papas fritas)",
-      "precio": 34000
+      "precio": 37000
     },
     {
       "nombre": "Napolitana XXL con cheddar (milanesa XL con salsa de tomate, jamón, muzzarella y papas fritas con cheddar)",
-      "precio": 38000
+      "precio": 39000
     },
     {
       "nombre": "Al verdeo XXL (milanesa XL con muzzarella, crema, cebolla de verdeo y papas fritas)",
-      "precio": 38000
+      "precio": 39000
     },
     {
       "nombre": "A caballo XXL (milanesa XL con huevos fritos y papas fritas)",
-      "precio": 34000
+      "precio": 37000
     },
     {
       "nombre": "Especial 'Lo de Marta' (milanesa XL con salsa de tomate, muzzarella, panceta ahumada, huevos fritos y papas fritas)",
-      "precio": 41000
+      "precio": 43000
     }
   ]
 },  
@@ -314,19 +314,19 @@
     },
     {
       "nombre": "Matambre tiernizado a la pizza",
-      "precio": 22000
-    },
-    {
-      "nombre": "Matambre tiernizado al roquefort",
       "precio": 23000
     },
     {
-      "nombre": "Matambre tiernizado al verdeo con papas noisette",
+      "nombre": "Matambre tiernizado al roquefort",
       "precio": 24000
     },
     {
+      "nombre": "Matambre tiernizado al verdeo con papas noisette",
+      "precio": 26000
+    },
+    {
       "nombre": "Bondiola a la pizza",
-      "precio": 22000
+      "precio": 23000
     },
     {
       "nombre": "Bondiola al verdeo con papas noisette",
@@ -347,15 +347,15 @@
     },
     {
       "nombre": "Grille Simple",
-      "precio": 16000
+      "precio": 17000
     },
     {
       "nombre": "Napolitano",
-      "precio": 17500
+      "precio": 18500
     },
     {
       "nombre": "Capresse",
-      "precio": 17500
+      "precio": 18500
     },
     {
       "nombre": "Al roquefort",
@@ -363,7 +363,7 @@
     },
     {
       "nombre": "Al verdeo con papas noisette",
-      "precio": 21000
+      "precio": 22000
     },
     {
       "nombre": "Al champiñon con papas noisette",
@@ -380,19 +380,19 @@
     },
     {
       "nombre": "Carre simple",
-      "precio": 14000
+      "precio": 15000
     },
     {
       "nombre": "A caballo",
-      "precio": 16000
-    },
-    {
-      "nombre": "Al roquefort",
       "precio": 17000
     },
     {
+      "nombre": "Al roquefort",
+      "precio": 18000
+    },
+    {
       "nombre": "A la riojana (colchon de arvejas, cebolla, morrón, huevo frito y papas fritas)",
-      "precio": 20000
+      "precio": 22000
     }
   ]
 },  
@@ -401,23 +401,23 @@
   "productos": [
     {
       "nombre": "Ravioles",
-      "precio": 9000
+      "precio": 10000
     },
     {
       "nombre": "Sorrentinos",
-      "precio": 10000
+      "precio": 11000
     },
     {
       "nombre": "Ñoquis",
-      "precio": 9000
+      "precio": 10000
     },
     {
       "nombre": "Tallarines",
-      "precio": 9000
+      "precio": 10000
     },
     {
       "nombre": "Canelones",
-      "precio": 10000
+      "precio": 11000
     }
   ]
 },
@@ -426,7 +426,7 @@
   "productos": [
     {
       "nombre": "Filetto",
-      "precio": 4500
+      "precio": 5000
     },
     {
       "nombre": "Crema",
@@ -434,7 +434,7 @@
     },
     {
       "nombre": "Mixta",
-      "precio": 5000
+      "precio": 6000
     },
     {
       "nombre": "Rossini (salsa blanca y parmesano)",
@@ -503,7 +503,7 @@
     },
     {
       "nombre": "Lopez 3/8",
-      "precio": 0
+      "precio": 8500
     },
     {
       "nombre": "Lopez 3/4",
@@ -511,7 +511,7 @@
     },
     {
       "nombre": "Chacabuco 3/8",
-      "precio": 8500
+      "precio": 0
     },
     {
       "nombre": "Chacabuco 3/4",
@@ -535,7 +535,7 @@
     },
     {
       "nombre": "Norton 3/8",
-      "precio": 8500
+      "precio": 0
     },
      {
       "nombre": "Norton 3/4",
@@ -555,15 +555,15 @@
     },
     {
       "nombre": "Chacabuco",
-      "precio": 0
-    },
-    {
-      "nombre": "Estancia de Mendoza",
       "precio": 12000
     },
     {
-      "nombre": "Bodega Privada",
+      "nombre": "Estancia de Mendoza",
       "precio": 0
+    },
+    {
+      "nombre": "San Felipe",
+      "precio": 12000
     },
     {
       "nombre": "CERVEZAS",
@@ -571,35 +571,35 @@
     },
     {
       "nombre": "Quilmes 1 lt",
-      "precio": 8000
+      "precio": 8500
     },
     {
       "nombre": "Brahma 1 lt",
-      "precio": 8000
+      "precio": 8500
     },
     {
       "nombre": "Andes 1 lt",
-      "precio": 9000
+      "precio": 9500
     },
     {
       "nombre": "Stella Artois 1 lt",
-      "precio": 11000
+      "precio": 12000
     },
     {
       "nombre": "Quilmes Stout 1 lt",
-      "precio": 8000
+      "precio": 9000
     },
     {
       "nombre": "Quilmes LATA",
-      "precio": 4000
+      "precio": 4500
     },
     {
       "nombre": "Brahma LATA",
-      "precio": 4000
+      "precio": 4500
     },
     {
       "nombre": "Andes LATA",
-      "precio": 4500
+      "precio": 5000
     },
     {
       "nombre": "Stella Artois LATA",
@@ -607,7 +607,7 @@
     },
     {
       "nombre": "Quilmes Stout LATA",
-      "precio": 4500
+      "precio": 5000
     }
   ]
 }
